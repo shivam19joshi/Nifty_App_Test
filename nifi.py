@@ -16,7 +16,7 @@ def load_data():
 df = load_data()
 
 # Title
-st.title("📊 Nifty Stocks Interactive Explorer")
+st.title("📊 Nifty Stocks Explorer")
 
 # Sidebar filters
 st.sidebar.header("🔎 Filters")
