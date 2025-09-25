@@ -1,5 +1,7 @@
 This app lets you explore Nifty stock data interactively with filters, charts, and indicators.
+
 ⚡ Features
+
 Filter by Category and Stock Symbol
 
 Select a date range
